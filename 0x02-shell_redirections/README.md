@@ -8,3 +8,4 @@
 7-file - Creates a file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) with contents inside 
 8-cwd_state - result of command ls -la 
 9-duplicate_last_line - Will duplicate the last line of the file
+10-no_more_js -deletes all files appended with .js
