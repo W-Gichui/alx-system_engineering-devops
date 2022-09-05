@@ -2,3 +2,4 @@
 1-confused smiley - Prints out "(Ôo)'
 2-hellofile - Displays the content of /etc/passwd
 3-twofiles - Displays the content of /etc/hosts and /etc/passwd
+4-lastlines - Shows the last 10 lines of /etc/passwd
